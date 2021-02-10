@@ -3,7 +3,6 @@ Postgres UUID Shortener
 
 # Examples
 
-### Setup postgres connection
 ```javascript
 const shortener = require('pg-uuid-shortener');
 
